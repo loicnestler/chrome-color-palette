@@ -1,5 +1,5 @@
 # Chrome Color Palette (BETA)
-###### Warning: This project is still in beta and highly unstable.
+###### Warning: This project is still in beta and highly unstable!
 
 > A Chrome extension that overrides Chromes default New Tab page with a random generated color palette, powered by [Colormind](http://colormind.io/).
 
@@ -22,7 +22,7 @@
 1. Clone the repository
 2. Navigate to `chrome://extensions/` and activate the `Developer Mode` (top right)
 3. Click on `Load unpacked`
-4. Select the repositories directory
+4. Select the repository's directory
 5. Enjoy beautiful color palettes!
 
 ### Donate
