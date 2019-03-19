@@ -26,4 +26,6 @@
 5. Enjoy beautiful color palettes!
 
 ### Donate
-I'd be very grateful about a little tip to keep this project running ! :purple_heart:
+I'd be very grateful about a little tip to keep this project running! :purple_heart:
+- [PayPal](paypal.me/loiic)
+- BTC coming soon
