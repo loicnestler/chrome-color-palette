@@ -27,5 +27,5 @@
 
 ### Donate
 I'd be very grateful about a little tip to keep this project running! :purple_heart:
-- [PayPal](paypal.me/loiic)
+- [PayPal](https://paypal.me/loiic)
 - BTC coming soon
